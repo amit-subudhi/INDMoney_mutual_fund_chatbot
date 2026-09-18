@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life Quant Fund Direct Growth",
-    "nav": "₹10.19",
-    "nav_date": "16 Sep 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 16 Sep 2026 is ₹10.19",
+    "nav": "₹10.27",
+    "nav_date": "17 Sep 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 17 Sep 2026 is ₹10.27",
     "nav_currency": "INR",
-    "one_day_change_pct": 0.2,
-    "inception_return": 0.85,
+    "one_day_change_pct": 0.8,
+    "inception_return": 1.21,
     "short_name": "Aditya Birla Sun Life Quant Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "0.5%",
     "lock_in": "No Lock-in",
     "turnover": "63.87%",
-    "return_1m": "-4.32%",
-    "return_1m_benchmark": "-4.5%",
+    "return_1m": "-3.84%",
+    "return_1m_benchmark": "-3.86%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
-    "return_3m": "-0.88%",
-    "return_3m_benchmark": "-2.02%",
+    "return_3m": "-0.68%",
+    "return_3m_benchmark": "-1.97%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
-    "return_6m": "6.37%",
-    "return_6m_benchmark": "4.81%",
+    "return_6m": "6.1%",
+    "return_6m_benchmark": "4.55%",
     "return_6m_category_avg": "--",
     "return_6m_category_rank": "N/A",
-    "return_1y": "4.51%",
-    "return_1y_benchmark": "-3.58%",
+    "return_1y": "5.01%",
+    "return_1y_benchmark": "-3.37%",
     "return_1y_category_avg": "--",
     "return_1y_category_rank": "N/A",
     "return_3y": "--",
-    "return_3y_benchmark": "8.45%",
+    "return_3y_benchmark": "8.64%",
     "return_3y_category_avg": "--",
     "return_3y_category_rank": "N/A",
     "return_5y": "--",
-    "return_5y_benchmark": "8.33%",
+    "return_5y_benchmark": "8.56%",
     "return_5y_category_avg": "--",
     "return_5y_category_rank": "N/A",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
@@ -176,7 +176,13 @@
             "pct": "0.3%",
             "pct_value": 0.3,
             "breakdown_label": "Credit rating breakup",
-            "breakdown": []
+            "breakdown": [
+                {
+                    "name": "AAA",
+                    "pct": "100%",
+                    "value": 100
+                }
+            ]
         }
     ],
     "market_cap_allocation": {
@@ -261,7 +267,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund Direct Growth is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2035 Cr worth of assets under management (AUM) as on Sep 2026 and is more than category average. The fund has an expense ratio 0.6. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 0.85% since inception. Over the last 1 year the fund has given a CAGR return of 4.51%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Basic Materials, Health, Industrial, Financial Services, Consumer Defensive, Corporate, Consumer Cyclical. Its top holdings are Marico Ltd, Torrent Pharmaceuticals Ltd, Nestle India Ltd, The Federal Bank Ltd, Grasim Industries Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jun'26 and Aug'26 Parameters Aug'26 Jul'26 Jun'26 AUM ₹ 2K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 2K Cr as of Aug'26 AUM decreased by 1.9 Cr  between Aug'26 and Jul'26",
+    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund Direct Growth is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹2035 Cr worth of assets under management (AUM) as on Sep 2026 and is more than category average. The fund has an expense ratio 0.6. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of 1.21% since inception. Over the last 1 year the fund has given a CAGR return of 5.01%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Basic Materials, Health, Industrial, Financial Services, Consumer Defensive, Corporate, Consumer Cyclical. Its top holdings are Marico Ltd, Torrent Pharmaceuticals Ltd, Nestle India Ltd, The Federal Bank Ltd, Grasim Industries Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jun'26 and Aug'26 Parameters Aug'26 Jul'26 Jun'26 AUM ₹ 2K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 2K Cr as of Aug'26 AUM decreased by 1.9 Cr  between Aug'26 and Jul'26",
     "fund_managers": "Harish Krishnan, Kartikeya Singh",
     "fund_managers_detail": [
         {
@@ -312,6 +318,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "17-09-2026",
+            "nav": "10.27000"
+        },
         {
             "date": "16-09-2026",
             "nav": "10.19000"
@@ -1283,19 +1293,15 @@
         {
             "date": "19-09-2025",
             "nav": "9.80000"
-        },
-        {
-            "date": "18-09-2025",
-            "nav": "9.82000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Sectoral/ Thematic",
     "mfapi_scheme_name": "Aditya Birla Sun Life Quant Fund - Direct Plan - GROWTH",
-    "previous_day_nav": "10.17000",
-    "nav_change_absolute": "₹0.02",
-    "nav_change_pct": "0.20%",
+    "previous_day_nav": "10.19000",
+    "nav_change_absolute": "₹0.08",
+    "nav_change_pct": "0.79%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
