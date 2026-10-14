@@ -1,8 +1,8 @@
 {
     "fund_name": "HDFC Mid Cap Fund -Direct Plan - Growth Option",
-    "nav": "₹219.30",
-    "nav_date": "12 Oct 2026",
-    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 12 Oct 2026 is ₹219.30",
+    "nav": "₹221.29",
+    "nav_date": "13 Oct 2026",
+    "nav_text": "Latest NAV for HDFC Mid Cap Fund as of 13 Oct 2026 is ₹221.29",
     "nav_currency": "INR",
     "one_day_change_pct": -0.2,
     "inception_return": 19.52,
@@ -20,7 +20,7 @@
     "fund_objective": "<p><span style=\"font-weight: 400;\">HDFC Mid Cap Opportunities Fund is a </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/mutual-funds/equity/mid-cap\"><span style=\"font-weight: 400;\">mid-cap mutual fund</span></a></span><span style=\"font-weight: 400;\"> that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/stocks/category/mid-cap-stocks\">mid-sized companies</a></span>. These are companies that rank 101st to 250th on the stock exchange as per their market capitalization.</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The fund uses the </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/indices/nifty-midcap-150\"><span style=\"font-weight: 400;\">Nifty Mid Cap 150 TRI</span></a></span><span style=\"font-weight: 400;\">",
     "expense_ratio": "0.74%",
     "benchmark": "Nifty Midcap 150",
-    "aum": "1,08,325Cr",
+    "aum": "1,01,856Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -30,27 +30,27 @@
     "turnover": "7.16%",
     "return_1m": "-4.9%",
     "return_1m_benchmark": "-5.37%",
-    "return_1m_category_avg": "-5.67%",
+    "return_1m_category_avg": "-4.88%",
     "return_1m_category_rank": "1/25",
     "return_3m": "-5.46%",
     "return_3m_benchmark": "-6.67%",
-    "return_3m_category_avg": "-3.66%",
+    "return_3m_category_avg": "-4.65%",
     "return_3m_category_rank": "4/25",
     "return_6m": "1.74%",
     "return_6m_benchmark": "1.5%",
-    "return_6m_category_avg": "5.89%",
+    "return_6m_category_avg": "4.49%",
     "return_6m_category_rank": "1/21",
     "return_1y": "0.9%",
     "return_1y_benchmark": "-0.57%",
-    "return_1y_category_avg": "1.82%",
+    "return_1y_category_avg": "1.8%",
     "return_1y_category_rank": "2/20",
     "return_3y": "15.09%",
     "return_3y_benchmark": "12.57%",
-    "return_3y_category_avg": "14.75%",
+    "return_3y_category_avg": "14.1%",
     "return_3y_category_rank": "4/19",
     "return_5y": "16.56%",
     "return_5y_benchmark": "12.73%",
-    "return_5y_category_avg": "12.94%",
+    "return_5y_category_avg": "12.8%",
     "return_5y_category_rank": "13/21",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.",
     "alpha_3y": "2.34",
@@ -312,6 +312,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "13-10-2026",
+            "nav": "221.29400"
+        },
         {
             "date": "12-10-2026",
             "nav": "219.30000"
@@ -1287,19 +1291,15 @@
         {
             "date": "15-10-2025",
             "nav": "218.09800"
-        },
-        {
-            "date": "14-10-2025",
-            "nav": "216.04400"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
     "mfapi_scheme_name": "HDFC Mid Cap Fund - Direct Plan - Growth Option",
-    "previous_day_nav": "219.81600",
-    "nav_change_absolute": "₹-0.52",
-    "nav_change_pct": "-0.23%",
+    "previous_day_nav": "219.30000",
+    "nav_change_absolute": "₹1.99",
+    "nav_change_pct": "0.91%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
