@@ -1,11 +1,11 @@
 {
     "fund_name": "Aditya Birla Sun Life Quant Fund Direct Growth",
-    "nav": "₹9.95",
-    "nav_date": "13 Oct 2026",
-    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 13 Oct 2026 is ₹9.95",
+    "nav": "₹9.84",
+    "nav_date": "19 Oct 2026",
+    "nav_text": "Latest NAV for Aditya Birla Sun Life Quant Fund as of 19 Oct 2026 is ₹9.84",
     "nav_currency": "INR",
-    "one_day_change_pct": 0.1,
-    "inception_return": -0.48,
+    "one_day_change_pct": -0.8,
+    "inception_return": -0.7,
     "short_name": "Aditya Birla Sun Life Quant Fund",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "fund_category": "Equity",
@@ -28,28 +28,28 @@
     "exit_load": "0.5%",
     "lock_in": "No Lock-in",
     "turnover": "63.87%",
-    "return_1m": "-4.9%",
-    "return_1m_benchmark": "-4.56%",
+    "return_1m": "-5.2%",
+    "return_1m_benchmark": "-3.5%",
     "return_1m_category_avg": "--",
     "return_1m_category_rank": "N/A",
-    "return_3m": "-5.36%",
-    "return_3m_benchmark": "-6.53%",
+    "return_3m": "-4.74%",
+    "return_3m_benchmark": "-5.56%",
     "return_3m_category_avg": "--",
     "return_3m_category_rank": "N/A",
-    "return_6m": "-1.1%",
-    "return_6m_benchmark": "-2.34%",
+    "return_6m": "-2.86%",
+    "return_6m_benchmark": "-3.6%",
     "return_6m_category_avg": "--",
     "return_6m_category_rank": "N/A",
-    "return_1y": "0.82%",
-    "return_1y_benchmark": "-6.49%",
+    "return_1y": "-1.3%",
+    "return_1y_benchmark": "-7.06%",
     "return_1y_category_avg": "--",
     "return_1y_category_rank": "N/A",
     "return_3y": "--",
-    "return_3y_benchmark": "7.8%",
+    "return_3y_benchmark": "8.6%",
     "return_3y_category_avg": "--",
     "return_3y_category_rank": "N/A",
     "return_5y": "--",
-    "return_5y_benchmark": "7.11%",
+    "return_5y_benchmark": "7.2%",
     "return_5y_category_avg": "--",
     "return_5y_category_rank": "N/A",
     "performance_highlight": "The fund has outperformed the benchmark (Nifty 500) over 1Y, but underperformed over 3Y, 5Y.",
@@ -58,10 +58,10 @@
     "sharpe_3y": "--",
     "sortino_3y": "--",
     "info_ratio_3y": "--",
-    "total_holdings_count": 40,
+    "total_holdings_count": 44,
     "holdings_count_breakdown": {
         "Equity Holdings": {
-            "count": 40,
+            "count": 44,
             "pct": 99.8237
         }
     },
@@ -70,7 +70,7 @@
             "name": "Marico Ltd",
             "sector": "Consumer Defensive",
             "shares": 1121951,
-            "allocation_pct": "4.52%",
+            "allocation_pct": "4.76%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -78,47 +78,31 @@
             "name": "Torrent Pharmaceuticals Ltd",
             "sector": "Healthcare",
             "shares": 175816,
-            "allocation_pct": "4.38%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Nestle India Ltd",
-            "sector": "Consumer Defensive",
-            "shares": 583967,
-            "allocation_pct": "4.29%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "The Federal Bank Ltd",
-            "sector": "Financial Services",
-            "shares": 2323453,
-            "allocation_pct": "4.07%",
-            "change_pct": "-2.4%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Grasim Industries Ltd",
-            "sector": "Basic Materials",
-            "shares": 244334,
-            "allocation_pct": "4.05%",
+            "allocation_pct": "4.55%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Apollo Hospitals Enterprise Ltd",
             "sector": "Healthcare",
-            "shares": 92457,
-            "allocation_pct": "4.04%",
-            "change_pct": "-2.5%",
+            "shares": 97351,
+            "allocation_pct": "4.29%",
+            "change_pct": "5.3%",
             "asset_class": "Equity"
         },
         {
-            "name": "State Bank of India",
-            "sector": "Financial Services",
-            "shares": 687020,
-            "allocation_pct": "3.58%",
+            "name": "Nestle India Ltd",
+            "sector": "Consumer Defensive",
+            "shares": 583967,
+            "allocation_pct": "4.13%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "sector": "Basic Materials",
+            "shares": 244334,
+            "allocation_pct": "4.03%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -126,23 +110,39 @@
             "name": "Laurus Labs Ltd",
             "sector": "Healthcare",
             "shares": 377916,
-            "allocation_pct": "3.56%",
+            "allocation_pct": "4.03%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "sector": "Financial Services",
+            "shares": 2323453,
+            "allocation_pct": "3.98%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "Sun Pharmaceuticals Industries Ltd",
             "sector": "Healthcare",
-            "shares": 357597,
-            "allocation_pct": "3.49%",
-            "change_pct": "-1.4%",
+            "shares": 362714,
+            "allocation_pct": "3.55%",
+            "change_pct": "1.4%",
             "asset_class": "Equity"
         },
         {
             "name": "Hindalco Industries Ltd",
             "sector": "Basic Materials",
             "shares": 696401,
-            "allocation_pct": "3.47%",
+            "allocation_pct": "3.54%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "sector": "Healthcare",
+            "shares": 240882,
+            "allocation_pct": "3.03%",
             "change_pct": "0%",
             "asset_class": "Equity"
         }
@@ -267,7 +267,7 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund Direct Growth is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹1855 Cr worth of assets under management (AUM) as on Oct 2026 and is more than category average. The fund has an expense ratio 1.3. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of -0.22% since inception. Over the last 1 year the fund has given a CAGR return of 1.12%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Health, Basic Materials, Consumer Defensive, Industrial, Consumer Cyclical, Financial Services, Tech. Its top holdings are Marico Ltd, Torrent Pharmaceuticals Ltd, Apollo Hospitals Enterprise Ltd, Nestle India Ltd, Laurus Labs Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jul'26 and Sep'26 Parameters Sep'26 Aug'26 Jul'26 AUM ₹ 2K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 2K Cr as of Sep'26 AUM has remained same  between Sep'26 and Aug'26",
+    "about": "About Aditya Birla Sun Life Quant Fund Aditya Birla Sun Life Quant Fund Direct Growth is an equity fund. This fund was started on 28 June, 2024. The fund is managed by Harish Krishnan, Kartikeya Singh. The fund could potentially beat inflation in the long-run. Key Parameters Aditya Birla Sun Life Quant Fund has ₹1855 Cr worth of assets under management (AUM) as on Oct 2026 and is more than category average. The fund has an expense ratio 1.3. Returns Aditya Birla Sun Life Quant Fund has given a CAGR return of -0.70% since inception. Over the last 1 year the fund has given a CAGR return of -1.30%. Holdings Aditya Birla Sun Life Quant Fund has allocated its funds majorly in Cash Equivalent, Health, Basic Materials, Consumer Defensive, Industrial, Consumer Cyclical, Financial Services, Tech. Its top holdings are Marico Ltd, Torrent Pharmaceuticals Ltd, Apollo Hospitals Enterprise Ltd, Nestle India Ltd, Laurus Labs Ltd Taxation As it is a equity - other mutual fund the taxation is as follows: For short term (less than a year) capital gains will be taxed at 20% For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax. Investment objective of Aditya Birla Sun Life Quant Fund The investment objective of the Scheme is to generate long term capital appreciation by investing in equity and equity related securities based on quant model theme . The Scheme does not guarantee/indicate any returns. There is no assurance that the investment objective of the Scheme will be achieved. Minimum Investment and lockin period Minimum investment for lump sum payment is INR 500.00 and for SIP is INR 500.00. Aditya Birla Sun Life Quant Fund has no lock in period. Know more about Aditya Birla Sun Life Quant Fund Fund Manager Harish Krishnan Fund Manager of  Aditya Birla Sun Life Quant Fund, since 28 June 2024 Kartikeya Singh Fund Manager of  Aditya Birla Sun Life Quant Fund, since 13 May 2026 Learn more about Aditya Birla Sun Life Mutual Fund AUM Change All changes are between Jul'26 and Sep'26 Parameters Sep'26 Aug'26 Jul'26 AUM ₹ 1.9K Cr ₹ 2K Cr ₹ 2K Cr AUM of the fund stands at 1.9K Cr as of Sep'26 AUM decreased by 180.8 Cr  between Sep'26 and Aug'26",
     "fund_managers": "Harish Krishnan, Kartikeya Singh",
     "fund_managers_detail": [
         {
@@ -281,13 +281,13 @@
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/aditya-birla-mutual-fund",
     "aum_history": {
-        "Sep'26": "₹ 2K Cr",
+        "Sep'26": "₹ 1.9K Cr",
         "Aug'26": "₹ 2K Cr",
         "Jul'26": "₹ 2K Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 2K Cr as of Sep'26",
-        "AUM has remained same  between Sep'26 and Aug'26"
+        "AUM of the fund stands at 1.9K Cr as of Sep'26",
+        "AUM decreased by 180.8 Cr  between Sep'26 and Aug'26"
     ],
     "scheme_code": 152684,
     "isin_growth": "INF209KC1118",
