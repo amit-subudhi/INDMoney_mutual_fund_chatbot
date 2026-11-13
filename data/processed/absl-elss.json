@@ -303,7 +303,7 @@
     "sip_xirr_10y": null,
     "rolling_returns": null,
     "standard_deviation": null,
-    "nav_52w_high": "₹71.14",
+    "nav_52w_high": "₹71.27",
     "nav_52w_low": "₹60.97",
     "portfolio_overlap_pct": null,
     "expense_ratio_regular": null,
@@ -320,6 +320,10 @@
     "number_of_folios": null,
     "country_allocation": null,
     "historical_nav": [
+        {
+            "date": "12-11-2026",
+            "nav": "71.27000"
+        },
         {
             "date": "11-11-2026",
             "nav": "70.81000"
@@ -1299,19 +1303,15 @@
         {
             "date": "14-11-2025",
             "nav": "69.81000"
-        },
-        {
-            "date": "13-11-2025",
-            "nav": "69.71000"
         }
     ],
     "mfapi_fund_house": "Aditya Birla Sun Life Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - ELSS",
     "mfapi_scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Direct Plan - GROWTH",
-    "previous_day_nav": "70.28000",
-    "nav_change_absolute": "₹0.53",
-    "nav_change_pct": "0.75%",
+    "previous_day_nav": "70.81000",
+    "nav_change_absolute": "₹0.46",
+    "nav_change_pct": "0.65%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
