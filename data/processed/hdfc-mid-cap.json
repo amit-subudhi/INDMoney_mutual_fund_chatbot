@@ -20,7 +20,7 @@
     "fund_objective": "<p><span style=\"font-weight: 400;\">HDFC Mid Cap Opportunities Fund is a </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/mutual-funds/equity/mid-cap\"><span style=\"font-weight: 400;\">mid-cap mutual fund</span></a></span><span style=\"font-weight: 400;\"> that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/stocks/category/mid-cap-stocks\">mid-sized companies</a></span>. These are companies that rank 101st to 250th on the stock exchange as per their market capitalization.</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The fund uses the </span><span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://www.indmoney.com/indices/nifty-midcap-150\"><span style=\"font-weight: 400;\">Nifty Mid Cap 150 TRI</span></a></span><span style=\"font-weight: 400;\">",
     "expense_ratio": "0.76%",
     "benchmark": "Nifty Midcap 150",
-    "aum": "1,01,856Cr",
+    "aum": "1,00,687Cr",
     "inception_date": "1 January, 2013",
     "min_lumpsum_sip": "₹100/₹100",
     "min_lumpsum_amount": "₹100",
@@ -29,27 +29,27 @@
     "lock_in": "No Lock-in",
     "turnover": "7.16%",
     "return_1m": "3.8%",
-    "return_1m_benchmark": "3.9%",
-    "return_1m_category_avg": "4.84%",
+    "return_1m_benchmark": "4.25%",
+    "return_1m_category_avg": "3.97%",
     "return_1m_category_rank": "2/29",
     "return_3m": "-3.11%",
-    "return_3m_benchmark": "-3.65%",
-    "return_3m_category_avg": "-1.96%",
+    "return_3m_benchmark": "-3.15%",
+    "return_3m_category_avg": "-2.17%",
     "return_3m_category_rank": "3/29",
     "return_6m": "5.99%",
-    "return_6m_benchmark": "2.65%",
-    "return_6m_category_avg": "6.6%",
+    "return_6m_benchmark": "1.9%",
+    "return_6m_category_avg": "5.95%",
     "return_6m_category_rank": "3/29",
     "return_1y": "2.38%",
-    "return_1y_benchmark": "1.61%",
-    "return_1y_category_avg": "4.45%",
+    "return_1y_benchmark": "1.57%",
+    "return_1y_category_avg": "4.68%",
     "return_1y_category_rank": "1/27",
     "return_3y": "16.02%",
-    "return_3y_benchmark": "14.04%",
-    "return_3y_category_avg": "15.72%",
+    "return_3y_benchmark": "13.71%",
+    "return_3y_category_avg": "15.49%",
     "return_3y_category_rank": "2/19",
     "return_5y": "17.55%",
-    "return_5y_benchmark": "13.68%",
+    "return_5y_benchmark": "13.61%",
     "return_5y_category_avg": "13.57%",
     "return_5y_category_rank": "14/21",
     "performance_highlight": "The fund has consistently outperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.",
@@ -62,7 +62,7 @@
     "holdings_count_breakdown": {
         "Equity Holdings": {
             "count": 79,
-            "pct": 91.73591
+            "pct": 93.11953
         }
     },
     "top_holdings": [
@@ -70,55 +70,23 @@
             "name": "The Federal Bank Ltd",
             "sector": "Financial Services",
             "shares": 127825000,
-            "allocation_pct": "3.98%",
+            "allocation_pct": "4.31%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
         {
             "name": "AU Small Finance Bank Ltd",
             "sector": "Financial Services",
-            "shares": 39737347,
-            "allocation_pct": "3.94%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Max Financial Services Ltd",
-            "sector": "Financial Services",
-            "shares": 26114231,
-            "allocation_pct": "3.52%",
-            "change_pct": "0%",
+            "shares": 40433217,
+            "allocation_pct": "3.47%",
+            "change_pct": "1.8%",
             "asset_class": "Equity"
         },
         {
             "name": "Ipca Laboratories Ltd",
             "sector": "Healthcare",
             "shares": 18140659,
-            "allocation_pct": "3.43%",
-            "change_pct": "0.2%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Glenmark Pharmaceuticals Ltd",
-            "sector": "Healthcare",
-            "shares": 13408183,
-            "allocation_pct": "3.07%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Balkrishna Industries Ltd",
-            "sector": "Consumer Cyclical",
-            "shares": 14341251,
-            "allocation_pct": "2.98%",
-            "change_pct": "0%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Indian Bank",
-            "sector": "Financial Services",
-            "shares": 36854482,
-            "allocation_pct": "2.92%",
+            "allocation_pct": "3.47%",
             "change_pct": "0%",
             "asset_class": "Equity"
         },
@@ -126,63 +94,95 @@
             "name": "Coforge Ltd",
             "sector": "Technology",
             "shares": 15620600,
-            "allocation_pct": "2.68%",
+            "allocation_pct": "3.17%",
             "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Indian Bank",
+            "sector": "Financial Services",
+            "shares": 36854482,
+            "allocation_pct": "3.17%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "sector": "Financial Services",
+            "shares": 26114231,
+            "allocation_pct": "3.11%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "sector": "Healthcare",
+            "shares": 13408183,
+            "allocation_pct": "3.06%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "sector": "Consumer Cyclical",
+            "shares": 14341251,
+            "allocation_pct": "2.95%",
+            "change_pct": "0%",
+            "asset_class": "Equity"
+        },
+        {
+            "name": "Marico Ltd",
+            "sector": "Consumer Defensive",
+            "shares": 31954285,
+            "allocation_pct": "2.54%",
+            "change_pct": "4.2%",
             "asset_class": "Equity"
         },
         {
             "name": "Fortis Healthcare Ltd",
             "sector": "Healthcare",
             "shares": 31701862,
-            "allocation_pct": "2.4%",
-            "change_pct": "-1.2%",
-            "asset_class": "Equity"
-        },
-        {
-            "name": "Marico Ltd",
-            "sector": "Consumer Defensive",
-            "shares": 30676407,
-            "allocation_pct": "2.37%",
-            "change_pct": "1.4%",
+            "allocation_pct": "2.42%",
+            "change_pct": "0%",
             "asset_class": "Equity"
         }
     ],
     "asset_allocation": [
         {
             "name": "Equity",
-            "pct": "91.7%",
-            "pct_value": 91.7,
+            "pct": "93.1%",
+            "pct_value": 93.1,
             "breakdown_label": "Size breakup",
             "breakdown": [
                 {
                     "name": "Mid cap",
-                    "pct": "64.1%",
-                    "value": 64.143
+                    "pct": "65.5%",
+                    "value": 65.45
                 },
                 {
                     "name": "Small cap",
-                    "pct": "17.2%",
-                    "value": 17.196
+                    "pct": "16.7%",
+                    "value": 16.704
                 },
                 {
                     "name": "Large cap",
-                    "pct": "10.4%",
-                    "value": 10.396
+                    "pct": "11%",
+                    "value": 10.965
                 }
             ]
         },
         {
             "name": "Debt & Cash",
-            "pct": "8.3%",
-            "pct_value": 8.3,
+            "pct": "6.9%",
+            "pct_value": 6.9,
             "breakdown_label": "Credit rating breakup",
             "breakdown": []
         }
     ],
     "market_cap_allocation": {
-        "mid_cap_pct": "64.1%",
-        "small_cap_pct": "17.2%",
-        "large_cap_pct": "10.4%"
+        "mid_cap_pct": "65.5%",
+        "small_cap_pct": "16.7%",
+        "large_cap_pct": "11%"
     },
     "sector_allocation": [
         {
@@ -261,27 +261,27 @@
     "ranking_scores": {},
     "ranking_pros": [],
     "ranking_cons": [],
-    "about": "About HDFC Mid Cap Fund HDFC Mid Cap Opportunities Fund is a  mid-cap mutual fund  that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in  mid-sized companies . These are companies that rank 101st to 250th on the stock exchange as per their market capitalization. \n   \n The fund uses the  Nifty Mid Cap 150 TRI  as its benchmark index. A benchmark index measures and compares the fund's performance against a broader market of mid-cap companies. HDFC Mid Cap Opportunities Fund maintains a strong focus on sectors like Financials, Automobiles, Healthcare, Technology, etc. \n   \n Investment Strategy \n The fund manager adopts a bottom-up stock-picking approach, focusing on individual companies rather than sectors or market trends. The emphasis is on identifying business with: \n   \n - Sound financial strength \n - Strong business model \n - Long-term growth potential \n   \n Should I Invest In HDFC Mid Cap Opportunties Fund? \n HDFC Mid-cap fund invests in mid-sized companies. These companies are emerging businesses that are growing rapidly and hold the potential to become large-cap. If you wish to invest in the HDFC mid-cap fund, you must have the following traits: \n   \n - Long-term investmentor \n - Moderate to high-risk appetite \n - Requires active management \n   \n Taxation On HDFC Mid Cap Direct Growth Fund \n Tax liability across all equity mutual funds is the same. For HDFC Mid Cap Fund, you will be taxed on any profit you make on the sale of your investments. If you sell your investment within 12 months, it is termed as a  Short-term capital gain  (STCG). If you sell your investments after 12 months, it is termed as  Long-term capital gain  (LTCG). The taxes on your investment are the following: \n   \n - Short-term Capital Gain Tax : 20% of STCG \n - Long-term Capital Gain Tax:  LTCG Exempted up to 1,25,000 and then 12.5%. \n   \n Allocation & Historical Returns Know more about HDFC Mid Cap Fund Fund Manager Dhruv Muchhal Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023 Chirag Setalvad Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007 Learn more about HDFC Mutual Fund AUM Change All changes are between Jul'26 and Sep'26 Parameters Sep'26 Aug'26 Jul'26 AUM ₹ 1L Cr ₹ 1.1L Cr ₹ 1.1L Cr AUM of the fund stands at 1L Cr as of Sep'26 AUM decreased by 6.5K Cr  between Sep'26 and Aug'26",
-    "fund_managers": "Dhruv Muchhal, Chirag Setalvad",
+    "about": "About HDFC Mid Cap Fund HDFC Mid Cap Opportunities Fund is a  mid-cap mutual fund  that is required by SEBI (Securities and Exchange Board of India) to invest at least 65% of its assets in  mid-sized companies . These are companies that rank 101st to 250th on the stock exchange as per their market capitalization. \n   \n The fund uses the  Nifty Mid Cap 150 TRI  as its benchmark index. A benchmark index measures and compares the fund's performance against a broader market of mid-cap companies. HDFC Mid Cap Opportunities Fund maintains a strong focus on sectors like Financials, Automobiles, Healthcare, Technology, etc. \n   \n Investment Strategy \n The fund manager adopts a bottom-up stock-picking approach, focusing on individual companies rather than sectors or market trends. The emphasis is on identifying business with: \n   \n - Sound financial strength \n - Strong business model \n - Long-term growth potential \n   \n Should I Invest In HDFC Mid Cap Opportunties Fund? \n HDFC Mid-cap fund invests in mid-sized companies. These companies are emerging businesses that are growing rapidly and hold the potential to become large-cap. If you wish to invest in the HDFC mid-cap fund, you must have the following traits: \n   \n - Long-term investmentor \n - Moderate to high-risk appetite \n - Requires active management \n   \n Taxation On HDFC Mid Cap Direct Growth Fund \n Tax liability across all equity mutual funds is the same. For HDFC Mid Cap Fund, you will be taxed on any profit you make on the sale of your investments. If you sell your investment within 12 months, it is termed as a  Short-term capital gain  (STCG). If you sell your investments after 12 months, it is termed as  Long-term capital gain  (LTCG). The taxes on your investment are the following: \n   \n - Short-term Capital Gain Tax : 20% of STCG \n - Long-term Capital Gain Tax:  LTCG Exempted up to 1,25,000 and then 12.5%. \n   \n Allocation & Historical Returns Know more about HDFC Mid Cap Fund Fund Manager Chirag Setalvad Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007 Dhruv Muchhal Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023 Learn more about HDFC Mutual Fund AUM Change All changes are between Aug'26 and Oct'26 Parameters Oct'26 Sep'26 Aug'26 AUM ₹ 1L Cr ₹ 1L Cr ₹ 1.1L Cr AUM of the fund stands at 1L Cr as of Oct'26 AUM decreased by 1.2K Cr  between Oct'26 and Sep'26",
+    "fund_managers": "Chirag Setalvad, Dhruv Muchhal",
     "fund_managers_detail": [
-        {
-            "name": "Dhruv Muchhal",
-            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023"
-        },
         {
             "name": "Chirag Setalvad",
             "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 25 June 2007"
+        },
+        {
+            "name": "Dhruv Muchhal",
+            "subtitle": "Fund Manager of  HDFC Mid Cap Fund, since 22 June 2023"
         }
     ],
     "amc_page_url": "https://www.indmoney.com/mutual-funds/amc/hdfc-mutual-fund",
     "aum_history": {
+        "Oct'26": "₹ 1L Cr",
         "Sep'26": "₹ 1L Cr",
-        "Aug'26": "₹ 1.1L Cr",
-        "Jul'26": "₹ 1.1L Cr"
+        "Aug'26": "₹ 1.1L Cr"
     },
     "aum_change_summary": [
-        "AUM of the fund stands at 1L Cr as of Sep'26",
-        "AUM decreased by 6.5K Cr  between Sep'26 and Aug'26"
+        "AUM of the fund stands at 1L Cr as of Oct'26",
+        "AUM decreased by 1.2K Cr  between Oct'26 and Sep'26"
     ],
     "scheme_code": 118989,
     "isin_growth": "INF179K01XQ0",
