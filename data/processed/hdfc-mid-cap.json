@@ -313,6 +313,10 @@
     "country_allocation": null,
     "historical_nav": [
         {
+            "date": "20-11-2026",
+            "nav": "232.51700"
+        },
+        {
             "date": "19-11-2026",
             "nav": "230.39000"
         },
@@ -1291,19 +1295,15 @@
         {
             "date": "24-11-2025",
             "nav": "223.44200"
-        },
-        {
-            "date": "21-11-2025",
-            "nav": "223.28100"
         }
     ],
     "mfapi_fund_house": "HDFC Mutual Fund",
     "mfapi_scheme_type": "Open Ended Schemes",
     "mfapi_scheme_category": "Equity Scheme - Mid Cap Fund",
     "mfapi_scheme_name": "HDFC Mid Cap Fund - Direct Plan - Growth Option",
-    "previous_day_nav": "228.63100",
-    "nav_change_absolute": "₹1.76",
-    "nav_change_pct": "0.77%",
+    "previous_day_nav": "230.39000",
+    "nav_change_absolute": "₹2.13",
+    "nav_change_pct": "0.92%",
     "taxation": {
         "fund_tax_category": "Equity",
         "stcg_tax_rate": "20%",
